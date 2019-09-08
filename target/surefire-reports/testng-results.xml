@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57" started-at="2019-09-07T14:39:44 CDT" finished-at="2019-09-07T14:39:44 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="57" started-at="2019-09-07T14:39:44 CDT" finished-at="2019-09-07T14:39:44 CDT">
+      <class name="com.elnurainc.SeleniumTest">
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:com.elnurainc.SeleniumTest@68be2bc2]" name="elementsUI" duration-ms="10" started-at="2019-09-07T14:39:44 CDT" finished-at="2019-09-07T14:39:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+        <test-method status="PASS" signature="webAutomation()[pri:0, instance:com.elnurainc.SeleniumTest@68be2bc2]" name="webAutomation" duration-ms="1" started-at="2019-09-07T14:39:44 CDT" finished-at="2019-09-07T14:39:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webAutomation -->
+      </class> <!-- com.elnurainc.SeleniumTest -->
+      <class name="com.elnurainc.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:com.elnurainc.RestAPITest@28feb3fa]" name="deleteTwitter" duration-ms="0" started-at="2019-09-07T14:39:44 CDT" finished-at="2019-09-07T14:39:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:com.elnurainc.RestAPITest@28feb3fa]" name="postJira" duration-ms="1" started-at="2019-09-07T14:39:44 CDT" finished-at="2019-09-07T14:39:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- com.elnurainc.RestAPITest -->
+      <class name="com.elnurainc.AppiumTest">
+        <test-method status="PASS" signature="IOSApp()[pri:0, instance:com.elnurainc.AppiumTest@675d3402]" name="IOSApp" duration-ms="0" started-at="2019-09-07T14:39:44 CDT" finished-at="2019-09-07T14:39:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:com.elnurainc.AppiumTest@675d3402]" name="nativeAppAndroid" duration-ms="0" started-at="2019-09-07T14:39:44 CDT" finished-at="2019-09-07T14:39:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+      </class> <!-- com.elnurainc.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
